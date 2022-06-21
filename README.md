@@ -1,3 +1,13 @@
+## Server Side Rendering - NextJS Demo. 
+
+When refreshing the page only for the home page there is no loading because the page is prebuilt as passed to Home Page from the server through props. i.e getServerSideProps function. The API used here is the Json Place holder API.
+
+Post Listing           |  Next.JS Welcome
+:-------------------------:|:-------------------------:
+![](https://github.com/basilsv/Server-Side-Rendering-NextJS/blob/main/posts.png)  |  ![](https://github.com/basilsv/Server-Side-Rendering-NextJS/blob/main/posts1.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
